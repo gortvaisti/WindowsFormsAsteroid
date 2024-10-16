@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gortv\\Documents\\ELTE\\Semester7\\EVA\\Beandando1\\Asteroid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74D5EC58-64D0-446B-B7D1-053B59787723}|Asteroid\\Asteroid.csproj|c:\\users\\gortv\\documents\\elte\\semester7\\eva\\beandando1\\asteroid\\asteroid\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D5EC58-64D0-446B-B7D1-053B59787723}|Asteroid\\Asteroid.csproj|solutionrelative:asteroid\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D5EC58-64D0-446B-B7D1-053B59787723}|Asteroid\\Asteroid.csproj|C:\\Users\\gortv\\Documents\\ELTE\\Semester7\\EVA\\Beandando1\\Asteroid\\asteroid\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74D5EC58-64D0-446B-B7D1-053B59787723}|Asteroid\\Asteroid.csproj|solutionrelative:asteroid\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D5EC58-64D0-446B-B7D1-053B59787723}|Asteroid\\Asteroid.csproj|c:\\users\\gortv\\documents\\elte\\semester7\\eva\\beandando1\\asteroid\\asteroid\\persistence\\asteroidfiledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D5EC58-64D0-446B-B7D1-053B59787723}|Asteroid\\Asteroid.csproj|solutionrelative:asteroid\\persistence\\asteroidfiledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D5EC58-64D0-446B-B7D1-053B59787723}|Asteroid\\Asteroid.csproj|c:\\users\\gortv\\documents\\elte\\semester7\\eva\\beandando1\\asteroid\\asteroid\\model\\asteroidgamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D5EC58-64D0-446B-B7D1-053B59787723}|Asteroid\\Asteroid.csproj|solutionrelative:asteroid\\model\\asteroidgamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D5EC58-64D0-446B-B7D1-053B59787723}|Asteroid\\Asteroid.csproj|c:\\users\\gortv\\documents\\elte\\semester7\\eva\\beandando1\\asteroid\\asteroid\\persistence\\asteroidtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D5EC58-64D0-446B-B7D1-053B59787723}|Asteroid\\Asteroid.csproj|solutionrelative:asteroid\\persistence\\asteroidtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D5EC58-64D0-446B-B7D1-053B59787723}|Asteroid\\Asteroid.csproj|c:\\users\\gortv\\documents\\elte\\semester7\\eva\\beandando1\\asteroid\\asteroid\\persistence\\asteroiddataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D5EC58-64D0-446B-B7D1-053B59787723}|Asteroid\\Asteroid.csproj|solutionrelative:asteroid\\persistence\\asteroiddataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D5EC58-64D0-446B-B7D1-053B59787723}|Asteroid\\Asteroid.csproj|c:\\users\\gortv\\documents\\elte\\semester7\\eva\\beandando1\\asteroid\\asteroid\\view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D5EC58-64D0-446B-B7D1-053B59787723}|Asteroid\\Asteroid.csproj|solutionrelative:asteroid\\view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D5EC58-64D0-446B-B7D1-053B59787723}|Asteroid\\Asteroid.csproj|c:\\users\\gortv\\documents\\elte\\semester7\\eva\\beandando1\\asteroid\\asteroid\\model\\asteroideventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D5EC58-64D0-446B-B7D1-053B59787723}|Asteroid\\Asteroid.csproj|solutionrelative:asteroid\\model\\asteroideventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D5EC58-64D0-446B-B7D1-053B59787723}|Asteroid\\Asteroid.csproj|c:\\users\\gortv\\documents\\elte\\semester7\\eva\\beandando1\\asteroid\\asteroid\\persistence\\iasteroiddataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D5EC58-64D0-446B-B7D1-053B59787723}|Asteroid\\Asteroid.csproj|solutionrelative:asteroid\\persistence\\iasteroiddataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AsteroidEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\gortv\\Documents\\ELTE\\Semester7\\EVA\\Beandando1\\Asteroid\\Asteroid\\Model\\AsteroidEventArgs.cs",
+              "RelativeDocumentMoniker": "Asteroid\\Model\\AsteroidEventArgs.cs",
+              "ToolTip": "C:\\Users\\gortv\\Documents\\ELTE\\Semester7\\EVA\\Beandando1\\Asteroid\\Asteroid\\Model\\AsteroidEventArgs.cs",
+              "RelativeToolTip": "Asteroid\\Model\\AsteroidEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:04:42.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AsteroidFileDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\gortv\\Documents\\ELTE\\Semester7\\EVA\\Beandando1\\Asteroid\\Asteroid\\Persistence\\AsteroidFileDataAccess.cs",
+              "RelativeDocumentMoniker": "Asteroid\\Persistence\\AsteroidFileDataAccess.cs",
+              "ToolTip": "C:\\Users\\gortv\\Documents\\ELTE\\Semester7\\EVA\\Beandando1\\Asteroid\\Asteroid\\Persistence\\AsteroidFileDataAccess.cs",
+              "RelativeToolTip": "Asteroid\\Persistence\\AsteroidFileDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:04:34.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAsteroidDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\gortv\\Documents\\ELTE\\Semester7\\EVA\\Beandando1\\Asteroid\\Asteroid\\Persistence\\IAsteroidDataAccess.cs",
+              "RelativeDocumentMoniker": "Asteroid\\Persistence\\IAsteroidDataAccess.cs",
+              "ToolTip": "C:\\Users\\gortv\\Documents\\ELTE\\Semester7\\EVA\\Beandando1\\Asteroid\\Asteroid\\Persistence\\IAsteroidDataAccess.cs",
+              "RelativeToolTip": "Asteroid\\Persistence\\IAsteroidDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:02:41.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AsteroidDataException.cs",
+              "DocumentMoniker": "C:\\Users\\gortv\\Documents\\ELTE\\Semester7\\EVA\\Beandando1\\Asteroid\\Asteroid\\Persistence\\AsteroidDataException.cs",
+              "RelativeDocumentMoniker": "Asteroid\\Persistence\\AsteroidDataException.cs",
+              "ToolTip": "C:\\Users\\gortv\\Documents\\ELTE\\Semester7\\EVA\\Beandando1\\Asteroid\\Asteroid\\Persistence\\AsteroidDataException.cs",
+              "RelativeToolTip": "Asteroid\\Persistence\\AsteroidDataException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:02:07.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gortv\\Documents\\ELTE\\Semester7\\EVA\\Beandando1\\Asteroid\\Asteroid\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "Asteroid\\View\\Form1.cs",
+              "ToolTip": "C:\\Users\\gortv\\Documents\\ELTE\\Semester7\\EVA\\Beandando1\\Asteroid\\Asteroid\\View\\Form1.cs [Design]*",
+              "RelativeToolTip": "Asteroid\\View\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:46:30.214Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gortv\\Documents\\ELTE\\Semester7\\EVA\\Beandando1\\Asteroid\\Asteroid\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "Asteroid\\View\\Form1.cs",
+              "ToolTip": "C:\\Users\\gortv\\Documents\\ELTE\\Semester7\\EVA\\Beandando1\\Asteroid\\Asteroid\\View\\Form1.cs*",
+              "RelativeToolTip": "Asteroid\\View\\Form1.cs*",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAUwK4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:02:18.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AsteroidGameModel.cs",
+              "DocumentMoniker": "C:\\Users\\gortv\\Documents\\ELTE\\Semester7\\EVA\\Beandando1\\Asteroid\\Asteroid\\Model\\AsteroidGameModel.cs",
+              "RelativeDocumentMoniker": "Asteroid\\Model\\AsteroidGameModel.cs",
+              "ToolTip": "C:\\Users\\gortv\\Documents\\ELTE\\Semester7\\EVA\\Beandando1\\Asteroid\\Asteroid\\Model\\AsteroidGameModel.cs",
+              "RelativeToolTip": "Asteroid\\Model\\AsteroidGameModel.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAqwI4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:10:51.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AsteroidTable.cs",
+              "DocumentMoniker": "C:\\Users\\gortv\\Documents\\ELTE\\Semester7\\EVA\\Beandando1\\Asteroid\\Asteroid\\Persistence\\AsteroidTable.cs",
+              "RelativeDocumentMoniker": "Asteroid\\Persistence\\AsteroidTable.cs",
+              "ToolTip": "C:\\Users\\gortv\\Documents\\ELTE\\Semester7\\EVA\\Beandando1\\Asteroid\\Asteroid\\Persistence\\AsteroidTable.cs",
+              "RelativeToolTip": "Asteroid\\Persistence\\AsteroidTable.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:28:11.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gortv\\Documents\\ELTE\\Semester7\\EVA\\Beandando1\\Asteroid\\Asteroid\\View\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Asteroid\\View\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\gortv\\Documents\\ELTE\\Semester7\\EVA\\Beandando1\\Asteroid\\Asteroid\\View\\Form1.Designer.cs",
+              "RelativeToolTip": "Asteroid\\View\\Form1.Designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:41:21.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

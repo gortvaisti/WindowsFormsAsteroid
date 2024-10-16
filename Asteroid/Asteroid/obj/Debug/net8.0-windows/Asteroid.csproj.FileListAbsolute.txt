@@ -1,0 +1,16 @@
+C:\Users\gortv\Documents\ELTE\Semester7\EVA\Beandando1\Asteroid\Asteroid\bin\Debug\net8.0-windows\Asteroid.exe
+C:\Users\gortv\Documents\ELTE\Semester7\EVA\Beandando1\Asteroid\Asteroid\bin\Debug\net8.0-windows\Asteroid.deps.json
+C:\Users\gortv\Documents\ELTE\Semester7\EVA\Beandando1\Asteroid\Asteroid\bin\Debug\net8.0-windows\Asteroid.runtimeconfig.json
+C:\Users\gortv\Documents\ELTE\Semester7\EVA\Beandando1\Asteroid\Asteroid\bin\Debug\net8.0-windows\Asteroid.dll
+C:\Users\gortv\Documents\ELTE\Semester7\EVA\Beandando1\Asteroid\Asteroid\bin\Debug\net8.0-windows\Asteroid.pdb
+C:\Users\gortv\Documents\ELTE\Semester7\EVA\Beandando1\Asteroid\Asteroid\obj\Debug\net8.0-windows\Asteroid.csproj.GenerateResource.cache
+C:\Users\gortv\Documents\ELTE\Semester7\EVA\Beandando1\Asteroid\Asteroid\obj\Debug\net8.0-windows\Asteroid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gortv\Documents\ELTE\Semester7\EVA\Beandando1\Asteroid\Asteroid\obj\Debug\net8.0-windows\Asteroid.AssemblyInfoInputs.cache
+C:\Users\gortv\Documents\ELTE\Semester7\EVA\Beandando1\Asteroid\Asteroid\obj\Debug\net8.0-windows\Asteroid.AssemblyInfo.cs
+C:\Users\gortv\Documents\ELTE\Semester7\EVA\Beandando1\Asteroid\Asteroid\obj\Debug\net8.0-windows\Asteroid.csproj.CoreCompileInputs.cache
+C:\Users\gortv\Documents\ELTE\Semester7\EVA\Beandando1\Asteroid\Asteroid\obj\Debug\net8.0-windows\Asteroid.dll
+C:\Users\gortv\Documents\ELTE\Semester7\EVA\Beandando1\Asteroid\Asteroid\obj\Debug\net8.0-windows\refint\Asteroid.dll
+C:\Users\gortv\Documents\ELTE\Semester7\EVA\Beandando1\Asteroid\Asteroid\obj\Debug\net8.0-windows\Asteroid.pdb
+C:\Users\gortv\Documents\ELTE\Semester7\EVA\Beandando1\Asteroid\Asteroid\obj\Debug\net8.0-windows\Asteroid.genruntimeconfig.cache
+C:\Users\gortv\Documents\ELTE\Semester7\EVA\Beandando1\Asteroid\Asteroid\obj\Debug\net8.0-windows\ref\Asteroid.dll
+C:\Users\gortv\Documents\ELTE\Semester7\EVA\Beandando1\Asteroid\Asteroid\obj\Debug\net8.0-windows\Asteroid.GameForm.resources
