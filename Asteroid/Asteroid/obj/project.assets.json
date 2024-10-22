@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gortv\\Documents\\ELTE\\Semester7\\EVA\\Beandando1\\Asteroid\\Asteroid\\Asteroid.csproj",
+      "projectUniqueName": "C:\\Users\\gortv\\Documents\\ELTE\\Semester7\\EVA\\WindowsForms\\Asteroid\\Asteroid\\Asteroid.csproj",
       "projectName": "Asteroid",
-      "projectPath": "C:\\Users\\gortv\\Documents\\ELTE\\Semester7\\EVA\\Beandando1\\Asteroid\\Asteroid\\Asteroid.csproj",
+      "projectPath": "C:\\Users\\gortv\\Documents\\ELTE\\Semester7\\EVA\\WindowsForms\\Asteroid\\Asteroid\\Asteroid.csproj",
       "packagesPath": "C:\\Users\\gortv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gortv\\Documents\\ELTE\\Semester7\\EVA\\Beandando1\\Asteroid\\Asteroid\\obj\\",
+      "outputPath": "C:\\Users\\gortv\\Documents\\ELTE\\Semester7\\EVA\\WindowsForms\\Asteroid\\Asteroid\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -12,7 +12,6 @@ namespace Asteroid
         private AsteroidGameModel _model = null!;
         private Timer _timer = null!;
 
-
         public GameForm()
         {
             InitializeComponent();

@@ -10,7 +10,7 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 namespace Asteroid.Model
 {
    
-    internal class AsteroidGameModel
+    public class AsteroidGameModel
     {
 
         public event EventHandler? ShipMoved;

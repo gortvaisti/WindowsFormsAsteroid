@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Asteroid
-build_property.ProjectDir = C:\Users\gortv\Documents\ELTE\Semester7\EVA\Beandando1\Asteroid\Asteroid\
+build_property.ProjectDir = C:\Users\gortv\Documents\ELTE\Semester7\EVA\WindowsForms\Asteroid\Asteroid\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
